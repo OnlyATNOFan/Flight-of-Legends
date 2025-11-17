@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Dragon Egg",
+		"resourceType": "Strategic",
+		"revealedBy": "Animal Husbandry",
+		"terrainsCanBeFoundOn": ["Hill", "Mountain", "Desert", "Tundra"],
+		"production": 1,
+		"gold": 1,
+		"improvement": "Mine",
+		"improvementStats": { "gold": 2, "production": 2 },
+		"uniques": [
+			"Guaranteed with Strategic Balance resource option",
+			"Generated with weight [60] <in [Mountain] tiles>",
+			"Generated with weight [40] <in [{Featureless} {Hill}] tiles>",
+			"Generated with weight [25] <in [{Featureless} {Desert}] tiles>",
+			"Generated with weight [15] <in [{Featureless} {Tundra}] tiles>",
+			"Minor deposits generated with weight [10] <in [Forest] tiles> <in tiles adjacent to [Mountain]>",
+			"Minor deposits generated with weight [10] <in [Hill] tiles> <in tiles without [Forest]>",
+			"Appears more often in continents with more mountains"
+		],
+		"majorDepositAmount": { "sparse": 3, "default": 5, "abundant": 8 },
+		"minorDepositAmount": { "sparse": 1, "default": 2, "abundant": 3 }
+	},
+	{
+		"name": "Griffin Nest",
+		"resourceType": "Strategic",
+		"revealedBy": "Animal Husbandry",
+		"terrainsCanBeFoundOn": ["Hill", "Mountain", "Forest", "Tundra"],
+		"production": 1,
+		"gold": 3,
+		"improvement": "Camp",
+		"improvementStats": { "food": 1, "gold": 3, "production": 2 },
+		"uniques": [
+		"Guaranteed with Strategic Balance resource option",
+		"Generated with weight [60] <in [Mountain] tiles>",
+		"Generated with weight [40] <in [{Featureless} {Hill}] tiles>",
+		"Generated with weight [30] <in [{Featureless} {Forest}] tiles>",
+		"Generated with weight [15] <in [{Featureless} {Tundra}] tiles>",
+		"Minor deposits generated with weight [10] <in [Forest] tiles> <in tiles adjacent to [Mountain]>",
+		"Minor deposits generated with weight [10] <in [Hill] tiles> <in tiles without [Forest]>",
+		"Appears more often in continents with more mountains"
+		],
+		"majorDepositAmount": { "sparse": 4, "default": 6, "abundant": 10 },
+		"minorDepositAmount": { "sparse": 2, "default": 3, "abundant": 5 }
+	}
+]
