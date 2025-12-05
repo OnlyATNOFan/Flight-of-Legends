@@ -202,7 +202,7 @@
 		"requiredTech": "Animal Husbandry",
 		"requiredResource": "Griffin Nest",
 		"uniques": ["[+20]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Helicopter Gunship",
+		"upgradesTo": "War Griffin",
 		"obsoleteTech": "Horseback Riding",
 		"attackSound": "Griffin_Attack"
 	},
@@ -217,7 +217,7 @@
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Griffin Nest",
 		"uniques": ["[+20]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Helicopter Gunship",
+		"upgradesTo": "Knight Griffin",
 		"obsoleteTech": "Chivalry",
 		"attackSound": "Griffin_Attack"
 	},
@@ -232,7 +232,7 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Griffin Nest",
 		"uniques": ["[+20]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Helicopter Gunship",
+		"upgradesTo": "Cuirassier Griffin",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "Griffin_Attack"
 	},
@@ -247,7 +247,7 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Griffin Nest",
 		"uniques": ["[+25]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "Can move after attacking","All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Helicopter Gunship",
+		"upgradesTo": "Zeppelin",
 		"obsoleteTech": "Flight",
 		"attackSound": "Griffin_Attack"
 	},
