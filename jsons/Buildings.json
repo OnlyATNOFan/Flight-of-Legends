@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Beast Breeding",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["[200]% [Griffin Nest] resource production","[200]% [Dragon Egg] resource production"],
+		"requiredTech": "Guilds"
+	}
+]
