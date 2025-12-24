@@ -6,7 +6,7 @@
 		"cost": 100,
 		"requiredTech": "Animal Husbandry",
 		"requiredResource": "Dragon Egg",
-		"uniques": ["Can enter [Mountain] tiles","Can build [Land] improvements on tiles","All tiles cost 1 movement","Ignores Zone of Control"]
+		"uniques": ["Can pass through impassable tiles","Can build [Land] improvements on tiles","All tiles cost 1 movement","Ignores Zone of Control"]
 	},
 	//air superiority
 	{
